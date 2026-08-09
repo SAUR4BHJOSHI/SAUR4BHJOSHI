@@ -10,7 +10,7 @@
   --------------------------------------------------------------
 -->
 
-# Hi, I'm Saurabh Joshi 👋 &nbsp;![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+# Hi, I'm Saurabh Joshi 👋 &nbsp;![Profile Views](https://komarev.com/ghpvc/?username=SAUR4BHJOSHI&label=Profile%20views&color=0e75b6&style=flat)
 
 ### Backend Developer · Java · Spring Boot · AWS ☁️ · System Design enthusiast
 
@@ -36,7 +36,6 @@ Over **5+ years** I've designed and shipped backend services that are **reliable
   - Building and maintaining **Java-based applications** with Spring Boot on AWS.
   - Designing **RESTful APIs**, service layers, and data models with a focus on **scalability and clean architecture**.
   - Applying **system-design principles** — caching, load balancing, high availability — to keep services fast under load.
-- *(Add previous roles here — Company, dates, and 1–2 impact bullets each.)*
 
 ---
 
@@ -73,11 +72,10 @@ Over **5+ years** I've designed and shipped backend services that are **reliable
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-> _Tweak this list to match your exact stack (add Kafka, Kubernetes, Maven, etc. if relevant)._
 
 ---
 
-## 🌈 Currently Exploring
+## Currently Exploring
 
 I'm deepening my expertise in **distributed systems and cloud-native architecture** — event-driven design, caching strategies, and building services that scale gracefully on AWS. Always happy to nerd out about how to make systems faster, cheaper, and more resilient. ⚡
 
@@ -85,21 +83,13 @@ I'm deepening my expertise in **distributed systems and cloud-native architectur
 
 ## 📊 GitHub Stats
 
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nightowl&hide_border=true&count_private=true)
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAUR4BHJOSHI&show_icons=true&theme=nightowl&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=nightowl&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAUR4BHJOSHI&theme=nightowl&hide_border=true&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=nightowl&hide_border=true)
-
----
-
-## 📞 Get in Touch
-
-- 💼 **LinkedIn:** [Saurabh Joshi](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- 📧 **Email:** YOUR_EMAIL
-- 🐙 **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- 🌐 **Portfolio / Website:** YOUR_WEBSITE *(optional)*
+![GitHub Streak](https://streak-stats.demolab.com/?user=SAUR4BHJOSHI&theme=nightowl&hide_border=true)
 
 ---
 
-> _Thanks for stopping by! May your code be bug-free and your systems scale effortlessly._ 🚀🌟
+
+> _Thanks for stopping by!_ 🚀🌟
