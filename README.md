@@ -10,7 +10,7 @@
   --------------------------------------------------------------
 -->
 
-# Hi, I'm Saurabh Joshi 👋 &nbsp;![Profile Views](https://komarev.com/ghpvc/?username=SAUR4BHJOSHI&label=Profile%20views&color=0e75b6&style=flat)
+# Hi, I'm Saurabh Joshi 👋 
 
 ### Backend Developer · Java · Spring Boot · AWS ☁️ · System Design enthusiast
 
