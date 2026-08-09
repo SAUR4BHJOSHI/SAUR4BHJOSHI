@@ -66,17 +66,4 @@ Over **5+ years** I've designed and shipped backend services that are **reliable
 
 I'm deepening my expertise in **distributed systems and cloud-native architecture** — event-driven design, caching strategies, and building services that scale gracefully on AWS. Always happy to nerd out about how to make systems faster, cheaper, and more resilient. ⚡
 
----
 
-## 📊 GitHub Stats
-
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAUR4BHJOSHI&show_icons=true&theme=nightowl&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAUR4BHJOSHI&theme=nightowl&hide_border=true&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SAUR4BHJOSHI&theme=nightowl&hide_border=true)
-
----
-
-
-> _Thanks for stopping by!_ 🚀🌟
